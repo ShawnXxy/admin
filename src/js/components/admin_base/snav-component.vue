@@ -76,7 +76,7 @@
                                 tag: '2_4'
                             },
                             {
-                                name: 'Receipts', //'开票管理',
+                                name: 'Invoice', //'开票管理',
                                 url: '/invoice/invoiceWriteList',
                                 tag: '2_9'
                             },
